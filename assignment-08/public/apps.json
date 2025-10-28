@@ -1,0 +1,542 @@
+[
+  {
+    "image": "https://static.thenounproject.com/png/app-development-icon-3971106-512.png",
+    "title": "ChatMaster",
+    "companyName": "TechNova",
+    "id": 1,
+    "description": "AI-powered chat app to improve your productivity.",
+    "size": 45,
+    "reviews": 1200,
+    "ratingAvg": 4.5,
+    "downloads": 50000,
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 30 },
+      { "name": "3 star", "count": 100 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 620 }
+    ]
+  },
+  {
+    "image": "https://static.thenounproject.com/png/app-development-icon-1210570-512.png",
+    "title": "FitTrack",
+    "companyName": "Healthify",
+    "id": 2,
+    "description": "Track your fitness and workouts with ease.",
+    "size": 60,
+    "reviews": 850,
+    "ratingAvg": 4.2,
+    "downloads": 35000,
+    "ratings": [
+      { "name": "1 star", "count": 30 },
+      { "name": "2 star", "count": 40 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 300 },
+      { "name": "5 star", "count": 330 }
+    ]
+  },
+  {
+    "image": "https://static.thenounproject.com/png/app-development-icon-986239-512.png",
+    "title": "PhotoSnap",
+    "companyName": "SnapTech",
+    "id": 3,
+    "description": "Capture and edit stunning photos effortlessly.",
+    "size": 80,
+    "reviews": 940,
+    "ratingAvg": 4.7,
+    "downloads": 42000,
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 10 },
+      { "name": "3 star", "count": 60 },
+      { "name": "4 star", "count": 300 },
+      { "name": "5 star", "count": 550 }
+    ]
+  },
+  {
+    "image": "https://static.thenounproject.com/png/app-development-icon-4826337-512.png",
+    "title": "TravelMate",
+    "companyName": "Wanderlust Inc.",
+    "id": 4,
+    "description": "Plan and book your trips with personalized recommendations.",
+    "size": 100,
+    "reviews": 760,
+    "ratingAvg": 4.3,
+    "downloads": 28000,
+    "ratings": [
+      { "name": "1 star", "count": 25 },
+      { "name": "2 star", "count": 35 },
+      { "name": "3 star", "count": 120 },
+      { "name": "4 star", "count": 280 },
+      { "name": "5 star", "count": 300 }
+    ]
+  },
+  {
+    "image": "https://static.thenounproject.com/png/app-development-icon-1958021-512.png",
+    "title": "NoteWise",
+    "companyName": "SmartApps",
+    "id": 5,
+    "description": "Organize your notes and ideas efficiently.",
+    "size": 35,
+    "reviews": 670,
+    "ratingAvg": 4.1,
+    "downloads": 22000,
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 40 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 250 },
+      { "name": "5 star", "count": 210 }
+    ]
+  },
+  {
+    "image": "https://static.thenounproject.com/png/app-development-icon-995459-512.png",
+    "title": "FoodieFun",
+    "companyName": "YumCorp",
+    "id": 6,
+    "description": "Discover recipes, restaurants, and food events.",
+    "size": 55,
+    "reviews": 1020,
+    "ratingAvg": 4.6,
+    "downloads": 47000,
+    "ratings": [
+      { "name": "1 star", "count": 15 },
+      { "name": "2 star", "count": 20 },
+      { "name": "3 star", "count": 90 },
+      { "name": "4 star", "count": 350 },
+      { "name": "5 star", "count": 545 }
+    ]
+  },
+  {
+    "image": "https://static.thenounproject.com/png/app-development-icon-4990763-512.png",
+    "title": "LearnLang",
+    "companyName": "EduTech",
+    "id": 7,
+    "description": "Learn new languages with interactive lessons.",
+    "size": 70,
+    "reviews": 880,
+    "ratingAvg": 4.4,
+    "downloads": 39000,
+    "ratings": [
+      { "name": "1 star", "count": 25 },
+      { "name": "2 star", "count": 35 },
+      { "name": "3 star", "count": 130 },
+      { "name": "4 star", "count": 280 },
+      { "name": "5 star", "count": 410 }
+    ]
+  },
+  {
+    "image": "https://static.thenounproject.com/png/app-development-icon-1210570-512.png",
+    "title": "MoneyMate",
+    "companyName": "FinWise",
+    "id": 8,
+    "description": "Manage your expenses and budgets effortlessly.",
+    "size": 40,
+    "reviews": 950,
+    "ratingAvg": 4.5,
+    "downloads": 45000,
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 25 },
+      { "name": "3 star", "count": 100 },
+      { "name": "4 star", "count": 350 },
+      { "name": "5 star", "count": 455 }
+    ]
+  },
+  {
+    "image": "https://static.thenounproject.com/png/app-icon-8063732-512.png",
+    "title": "AppMaster",
+    "companyName": "TechLabs",
+    "id": 9,
+    "description": "Master your tasks with this productivity app.",
+    "size": 50,
+    "reviews": 1100,
+    "ratingAvg": 4.6,
+    "downloads": 48000,
+    "ratings": [
+      { "name": "1 star", "count": 40 },
+      { "name": "2 star", "count": 30 },
+      { "name": "3 star", "count": 100 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 530 }
+    ]
+  },
+  {
+    "image": "https://static.thenounproject.com/png/app-icon-586409-512.png",
+    "title": "QuickNote",
+    "companyName": "Noteify",
+    "id": 10,
+    "description": "Take quick notes and organize your thoughts.",
+    "size": 30,
+    "reviews": 950,
+    "ratingAvg": 4.4,
+    "downloads": 42000,
+    "ratings": [
+      { "name": "1 star", "count": 25 },
+      { "name": "2 star", "count": 35 },
+      { "name": "3 star", "count": 120 },
+      { "name": "4 star", "count": 300 },
+      { "name": "5 star", "count": 470 }
+    ]
+  },
+  {
+    "image": "https://static.thenounproject.com/png/app-icon-3377693-512.png",
+    "title": "PhotoEdit",
+    "companyName": "Snapify",
+    "id": 11,
+    "description": "Edit and enhance your photos effortlessly.",
+    "size": 75,
+    "reviews": 1050,
+    "ratingAvg": 4.7,
+    "downloads": 50000,
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 15 },
+      { "name": "3 star", "count": 80 },
+      { "name": "4 star", "count": 350 },
+      { "name": "5 star", "count": 585 }
+    ]
+  },
+  {
+    "image": "https://static.thenounproject.com/png/app-icon-1295148-512.png",
+    "title": "TravelGuide",
+    "companyName": "WanderPro",
+    "id": 12,
+    "description": "Your personal travel guide and planner.",
+    "size": 90,
+    "reviews": 800,
+    "ratingAvg": 4.3,
+    "downloads": 35000,
+    "ratings": [
+      { "name": "1 star", "count": 30 },
+      { "name": "2 star", "count": 40 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 290 },
+      { "name": "5 star", "count": 490 }
+    ]
+  },
+  {
+    "image": "https://static.thenounproject.com/png/app-icon-84859-512.png",
+    "title": "TaskMaster",
+    "companyName": "Productify",
+    "id": 13,
+    "description": "Organize and manage your tasks effectively.",
+    "size": 60,
+    "reviews": 950,
+    "ratingAvg": 4.5,
+    "downloads": 47000,
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 25 },
+      { "name": "3 star", "count": 100 },
+      { "name": "4 star", "count": 350 },
+      { "name": "5 star", "count": 455 }
+    ]
+  },
+  {
+    "image": "https://static.thenounproject.com/png/app-icon-7815929-512.png",
+    "title": "NoteMaster",
+    "companyName": "NoteCraft",
+    "id": 14,
+    "description": "Master your notes with advanced features.",
+    "size": 40,
+    "reviews": 870,
+    "ratingAvg": 4.2,
+    "downloads": 42000,
+    "ratings": [
+      { "name": "1 star", "count": 30 },
+      { "name": "2 star", "count": 40 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 280 },
+      { "name": "5 star", "count": 370 }
+    ]
+  },
+  {
+    "image": "https://static.thenounproject.com/png/app-icon-1226779-512.png",
+    "title": "AppHub",
+    "companyName": "TechWorks",
+    "id": 15,
+    "description": "All your apps in one place.",
+    "size": 50,
+    "reviews": 920,
+    "ratingAvg": 4.6,
+    "downloads": 48000,
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 25 },
+      { "name": "3 star", "count": 100 },
+      { "name": "4 star", "count": 350 },
+      { "name": "5 star", "count": 455 }
+    ]
+  },
+  {
+    "image": "https://static.thenounproject.com/png/app-icon-730311-512.png",
+    "title": "QuickLaunch",
+    "companyName": "LaunchPad",
+    "id": 16,
+    "description": "Launch your favorite apps quickly.",
+    "size": 35,
+    "reviews": 800,
+    "ratingAvg": 4.4,
+    "downloads": 40000,
+    "ratings": [
+      { "name": "1 star", "count": 25 },
+      { "name": "2 star", "count": 30 },
+      { "name": "3 star", "count": 120 },
+      { "name": "4 star", "count": 280 },
+      { "name": "5 star", "count": 345 }
+    ]
+  },
+  {
+    "image": "https://static.thenounproject.com/png/app-icon-3166889-512.png",
+    "title": "AppBox",
+    "companyName": "Boxify",
+    "id": 17,
+    "description": "Your app collection in one box.",
+    "size": 60,
+    "reviews": 950,
+    "ratingAvg": 4.7,
+    "downloads": 50000,
+    "ratings": [
+      { "name": "1 star", "count": 15 },
+      { "name": "2 star", "count": 20 },
+      { "name": "3 star", "count": 80 },
+      { "name": "4 star", "count": 350 },
+      { "name": "5 star", "count": 485 }
+    ]
+  },
+  {
+    "image": "https://static.thenounproject.com/png/app-icon-1560907-512.png",
+    "title": "AppMaster Pro",
+    "companyName": "ProDev",
+    "id": 18,
+    "description": "Advanced features for professional users.",
+    "size": 70,
+    "reviews": 1050,
+    "ratingAvg": 4.8,
+    "downloads": 55000,
+    "ratings": [
+      { "name": "1 star", "count": 10 },
+      { "name": "2 star", "count": 15 },
+      { "name": "3 star", "count": 60 },
+      { "name": "4 star", "count": 300 },
+      { "name": "5 star", "count": 665 }
+    ]
+  },
+  {
+    "image": "https://static.thenounproject.com/png/app-icon-4029667-512.png",
+    "title": "QuickAccess",
+    "companyName": "Accessify",
+    "id": 19,
+    "description": "Access your apps and files quickly.",
+    "size": 45,
+    "reviews": 900,
+    "ratingAvg": 4.5,
+    "downloads": 46000,
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 25 },
+      { "name": "3 star", "count": 100 },
+      { "name": "4 star", "count": 350 },
+      { "name": "5 star", "count": 405 }
+    ]
+  },
+  {
+    "image": "https://static.thenounproject.com/png/app-icon-559090-512.png",
+    "title": "AppSuite",
+    "companyName": "Suiteify",
+    "id": 20,
+    "description": "Suite of apps for your productivity.",
+    "size": 80,
+    "reviews": 1100,
+    "ratingAvg": 4.6,
+    "downloads": 52000,
+    "ratings": [
+      { "name": "1 star", "count": 15 },
+      { "name": "2 star", "count": 20 },
+      { "name": "3 star", "count": 90 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 575 }
+    ]
+  },
+  {
+    "image": "https://static.thenounproject.com/png/app-icon-1935373-512.png",
+    "title": "AppLauncher",
+    "companyName": "Launchify",
+    "id": 21,
+    "description": "Launch your favorite apps instantly.",
+    "size": 55,
+    "reviews": 980,
+    "ratingAvg": 4.5,
+    "downloads": 49000,
+    "ratings": [
+      { "name": "1 star", "count": 15 },
+      { "name": "2 star", "count": 20 },
+      { "name": "3 star", "count": 100 },
+      { "name": "4 star", "count": 360 },
+      { "name": "5 star", "count": 485 }
+    ]
+  },
+  {
+    "image": "https://static.thenounproject.com/png/app-icon-2118820-512.png",
+    "title": "CloudSync",
+    "companyName": "SyncTech",
+    "id": 22,
+    "description": "Sync your files seamlessly across devices.",
+    "size": 70,
+    "reviews": 1020,
+    "ratingAvg": 4.6,
+    "downloads": 52000,
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 15 },
+      { "name": "3 star", "count": 90 },
+      { "name": "4 star", "count": 350 },
+      { "name": "5 star", "count": 545 }
+    ]
+  },
+  {
+    "image": "https://static.thenounproject.com/png/app-icon-1412958-512.png",
+    "title": "FileManager",
+    "companyName": "FileTech",
+    "id": 23,
+    "description": "Manage your files and folders efficiently.",
+    "size": 60,
+    "reviews": 970,
+    "ratingAvg": 4.5,
+    "downloads": 48000,
+    "ratings": [
+      { "name": "1 star", "count": 25 },
+      { "name": "2 star", "count": 30 },
+      { "name": "3 star", "count": 100 },
+      { "name": "4 star", "count": 300 },
+      { "name": "5 star", "count": 515 }
+    ]
+  },
+  {
+    "image": "https://static.thenounproject.com/png/app-icon-1241055-512.png",
+    "title": "TaskTracker",
+    "companyName": "Trackify",
+    "id": 24,
+    "description": "Track your daily tasks and goals.",
+    "size": 50,
+    "reviews": 940,
+    "ratingAvg": 4.4,
+    "downloads": 46000,
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 25 },
+      { "name": "3 star", "count": 110 },
+      { "name": "4 star", "count": 280 },
+      { "name": "5 star", "count": 505 }
+    ]
+  },
+  {
+    "image": "https://static.thenounproject.com/png/app-icon-3162223-512.png",
+    "title": "NoteSync",
+    "companyName": "Syncify",
+    "id": 25,
+    "description": "Sync notes across all your devices.",
+    "size": 40,
+    "reviews": 910,
+    "ratingAvg": 4.3,
+    "downloads": 45000,
+    "ratings": [
+      { "name": "1 star", "count": 25 },
+      { "name": "2 star", "count": 30 },
+      { "name": "3 star", "count": 100 },
+      { "name": "4 star", "count": 300 },
+      { "name": "5 star", "count": 455 }
+    ]
+  },
+  {
+    "image": "https://static.thenounproject.com/png/app-icon-2568082-512.png",
+    "title": "BudgetBuddy",
+    "companyName": "FinTrack",
+    "id": 26,
+    "description": "Track your finances and budgets easily.",
+    "size": 55,
+    "reviews": 980,
+    "ratingAvg": 4.5,
+    "downloads": 49000,
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 25 },
+      { "name": "3 star", "count": 90 },
+      { "name": "4 star", "count": 350 },
+      { "name": "5 star", "count": 495 }
+    ]
+  },
+  {
+    "image": "https://static.thenounproject.com/png/app-icon-1972345-512.png",
+    "title": "RecipeBook",
+    "companyName": "Cookify",
+    "id": 27,
+    "description": "Discover and save recipes from around the world.",
+    "size": 65,
+    "reviews": 1020,
+    "ratingAvg": 4.6,
+    "downloads": 52000,
+    "ratings": [
+      { "name": "1 star", "count": 15 },
+      { "name": "2 star", "count": 20 },
+      { "name": "3 star", "count": 80 },
+      { "name": "4 star", "count": 350 },
+      { "name": "5 star", "count": 555 }
+    ]
+  },
+  {
+    "image": "https://static.thenounproject.com/png/app-icon-3579552-512.png",
+    "title": "HealthTrack",
+    "companyName": "HealthifyPro",
+    "id": 28,
+    "description": "Monitor your health and fitness goals.",
+    "size": 70,
+    "reviews": 1000,
+    "ratingAvg": 4.5,
+    "downloads": 50000,
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 25 },
+      { "name": "3 star", "count": 90 },
+      { "name": "4 star", "count": 350 },
+      { "name": "5 star", "count": 515 }
+    ]
+  },
+  {
+    "image": "https://static.thenounproject.com/png/app-icon-2289939-512.png",
+    "title": "WeatherNow",
+    "companyName": "SkyTech",
+    "id": 29,
+    "description": "Get accurate weather updates instantly.",
+    "size": 45,
+    "reviews": 950,
+    "ratingAvg": 4.4,
+    "downloads": 47000,
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 30 },
+      { "name": "3 star", "count": 100 },
+      { "name": "4 star", "count": 280 },
+      { "name": "5 star", "count": 520 }
+    ]
+  },
+  {
+    "image": "https://static.thenounproject.com/png/app-icon-3983747-512.png",
+    "title": "MusicStream",
+    "companyName": "Tuneify",
+    "id": 30,
+    "description": "Stream your favorite music anytime.",
+    "size": 80,
+    "reviews": 1100,
+    "ratingAvg": 4.6,
+    "downloads": 53000,
+    "ratings": [
+      { "name": "1 star", "count": 15 },
+      { "name": "2 star", "count": 20 },
+      { "name": "3 star", "count": 90 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 575 }
+    ]
+  }
+]
