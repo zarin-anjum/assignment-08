@@ -164,8 +164,8 @@ const TrendingApps = () => {
 
   return (
     <div className="p-10 md:p-16 lg:p-20 text-center">
-      <h1 className="font-bold text-5xl mb-4">Trending Apps</h1>
-      <p className="text-[20px] text-[#627382] mb-8">
+      <h1 className="font-bold text-xl md:text-3xl lg:text-5xl mb-4">Trending Apps</h1>
+      <p className="text-sm md:text-lg lg:text-xl text-[#627382] mb-8">
         Explore All Trending Apps on the Market developed by us
       </p>
 
@@ -181,7 +181,7 @@ const TrendingApps = () => {
               alt={app.title}
               className="mx-auto mb-4 border-2 border-gray-400 rounded-md"
             />
-            <h2 className="font-medium text-[20px] mb-4">{app.title}</h2>
+            <h2 className="font-medium text-xl mb-4">{app.title}</h2>
             <div className="flex justify-between">
               <div className="flex items-center gap-2 bg-[#F1F5E8] p-1">
                 <img
@@ -204,6 +204,15 @@ const TrendingApps = () => {
             </div>
           </div>
         ))}
+      </div>
+
+      <div>
+        <button
+          className="bg-linear-to-r from-[#632EE3] to-[#9F62F2] font-semibold text-white text-[16px] mt-8 px-5 md:px-7 lg:px-9 py-1 md:py-2 lg:py-3 rounded-sm"
+          onClick={() => navigate("/AllApps")}
+        >
+          Show All
+        </button>
       </div>
     </div>
   );

@@ -1,6 +1,6 @@
 [
   {
-    "image": "https://static.thenounproject.com/png/app-development-icon-3971106-512.png",
+    "image": "/assets/demo-app (1).webp",
     "title": "ChatMaster",
     "companyName": "TechNova",
     "id": 1,
@@ -18,7 +18,7 @@
     ]
   },
   {
-    "image": "https://static.thenounproject.com/png/app-development-icon-1210570-512.png",
+    "image": "/assets/FitTrack.webp",
     "title": "FitTrack",
     "companyName": "Healthify",
     "id": 2,
@@ -36,7 +36,7 @@
     ]
   },
   {
-    "image": "https://static.thenounproject.com/png/app-development-icon-986239-512.png",
+    "image": "/assets/Snap.jpg",
     "title": "PhotoSnap",
     "companyName": "SnapTech",
     "id": 3,
@@ -54,7 +54,7 @@
     ]
   },
   {
-    "image": "https://static.thenounproject.com/png/app-development-icon-4826337-512.png",
+    "image": "/assets/demo-app (3).webp",
     "title": "TravelMate",
     "companyName": "Wanderlust Inc.",
     "id": 4,
@@ -72,7 +72,7 @@
     ]
   },
   {
-    "image": "https://static.thenounproject.com/png/app-development-icon-1958021-512.png",
+    "image": "/assets/Notewise.png",
     "title": "NoteWise",
     "companyName": "SmartApps",
     "id": 5,
@@ -90,7 +90,7 @@
     ]
   },
   {
-    "image": "https://static.thenounproject.com/png/app-development-icon-995459-512.png",
+    "image": "/assets/Foodiefun.jpg",
     "title": "FoodieFun",
     "companyName": "YumCorp",
     "id": 6,
@@ -108,7 +108,7 @@
     ]
   },
   {
-    "image": "https://static.thenounproject.com/png/app-development-icon-4990763-512.png",
+    "image": "/assets/LearnLang.jpg",
     "title": "LearnLang",
     "companyName": "EduTech",
     "id": 7,
@@ -126,7 +126,7 @@
     ]
   },
   {
-    "image": "https://static.thenounproject.com/png/app-development-icon-1210570-512.png",
+    "image": "/assets/MoneyMate.webp",
     "title": "MoneyMate",
     "companyName": "FinWise",
     "id": 8,

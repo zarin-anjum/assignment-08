@@ -1,7 +1,10 @@
 import React from "react";
 import { FaGithub } from "react-icons/fa";
+import { useNavigate } from "react-router";
 
 const Navbar = () => {
+  const navigate = useNavigate();
+
   return (
     <div className="navbar bg-base-100 shadow-sm px-8 md:px-12 lg:px-20 py-4 lg:py-5">
       <div className="navbar-start flex items-center gap-2">
@@ -16,10 +19,10 @@ const Navbar = () => {
       <div className="navbar-center hidden md:flex">
         <ul className="flex gap-5 font-medium text-sm md:text-[16px] lg:text-lg">
           <li>
-            <a className="hover:text-purple-600 hover:underline">Home</a>
+            <a className="hover:text-purple-600 hover:underline" onClick={() => navigate("/")}>Home</a>
           </li>
           <li>
-            <a className="hover:text-purple-600 hover:underline">Apps</a>
+            <a className="hover:text-purple-600 hover:underline" onClick={() => navigate("/AllApps")}>Apps</a>
           </li>
           <li>
             <a className="hover:text-purple-600 hover:underline">Installation</a>
