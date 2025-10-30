@@ -144,7 +144,7 @@
     ]
   },
   {
-    "image": "https://static.thenounproject.com/png/app-icon-8063732-512.png",
+    "image": "/assets/AppMaster.png",
     "title": "AppMaster",
     "companyName": "TechLabs",
     "id": 9,
@@ -162,8 +162,8 @@
     ]
   },
   {
-    "image": "https://static.thenounproject.com/png/app-icon-586409-512.png",
-    "title": "QuickNote",
+    "image": "/assets/demo-app (6).webp",
+    "title": "DailyPlanner",
     "companyName": "Noteify",
     "id": 10,
     "description": "Take quick notes and organize your thoughts.",
@@ -180,7 +180,7 @@
     ]
   },
   {
-    "image": "https://static.thenounproject.com/png/app-icon-3377693-512.png",
+    "image": "/assets/PhotoEdit.png",
     "title": "PhotoEdit",
     "companyName": "Snapify",
     "id": 11,
@@ -198,7 +198,7 @@
     ]
   },
   {
-    "image": "https://static.thenounproject.com/png/app-icon-1295148-512.png",
+    "image": "/assets/TravelGuide.jpg",
     "title": "TravelGuide",
     "companyName": "WanderPro",
     "id": 12,
@@ -216,7 +216,7 @@
     ]
   },
   {
-    "image": "https://static.thenounproject.com/png/app-icon-84859-512.png",
+    "image": "/assets/TaskMaster.jpg",
     "title": "TaskMaster",
     "companyName": "Productify",
     "id": 13,
@@ -234,7 +234,7 @@
     ]
   },
   {
-    "image": "https://static.thenounproject.com/png/app-icon-7815929-512.png",
+    "image": "/assets/demo-app (5).webp",
     "title": "NoteMaster",
     "companyName": "NoteCraft",
     "id": 14,
@@ -252,7 +252,7 @@
     ]
   },
   {
-    "image": "https://static.thenounproject.com/png/app-icon-1226779-512.png",
+    "image": "/assets/AppHub.webp",
     "title": "AppHub",
     "companyName": "TechWorks",
     "id": 15,
@@ -270,7 +270,7 @@
     ]
   },
   {
-    "image": "https://static.thenounproject.com/png/app-icon-730311-512.png",
+    "image": "/assets/QuickLaunch.jpg",
     "title": "QuickLaunch",
     "companyName": "LaunchPad",
     "id": 16,
@@ -288,7 +288,7 @@
     ]
   },
   {
-    "image": "https://static.thenounproject.com/png/app-icon-3166889-512.png",
+    "image": "/assets/AppBox.jpg",
     "title": "AppBox",
     "companyName": "Boxify",
     "id": 17,
@@ -306,7 +306,7 @@
     ]
   },
   {
-    "image": "https://static.thenounproject.com/png/app-icon-1560907-512.png",
+    "image": "/assets/AppmasterPro.jpg",
     "title": "AppMaster Pro",
     "companyName": "ProDev",
     "id": 18,
@@ -324,7 +324,7 @@
     ]
   },
   {
-    "image": "https://static.thenounproject.com/png/app-icon-4029667-512.png",
+    "image": "/assets/QuickAccess.webp",
     "title": "QuickAccess",
     "companyName": "Accessify",
     "id": 19,
@@ -342,7 +342,7 @@
     ]
   },
   {
-    "image": "https://static.thenounproject.com/png/app-icon-559090-512.png",
+    "image": "/assets/AppSuite.webp",
     "title": "AppSuite",
     "companyName": "Suiteify",
     "id": 20,
@@ -360,7 +360,7 @@
     ]
   },
   {
-    "image": "https://static.thenounproject.com/png/app-icon-1935373-512.png",
+    "image": "/assets/AppLauncher.webp",
     "title": "AppLauncher",
     "companyName": "Launchify",
     "id": 21,
@@ -378,7 +378,7 @@
     ]
   },
   {
-    "image": "https://static.thenounproject.com/png/app-icon-2118820-512.png",
+    "image": "/assets/CloudSync.png",
     "title": "CloudSync",
     "companyName": "SyncTech",
     "id": 22,
@@ -396,7 +396,7 @@
     ]
   },
   {
-    "image": "https://static.thenounproject.com/png/app-icon-1412958-512.png",
+    "image": "/assets/FileManager.jpg",
     "title": "FileManager",
     "companyName": "FileTech",
     "id": 23,
@@ -414,7 +414,7 @@
     ]
   },
   {
-    "image": "https://static.thenounproject.com/png/app-icon-1241055-512.png",
+    "image": "/assets/TaskTracker.png",
     "title": "TaskTracker",
     "companyName": "Trackify",
     "id": 24,
@@ -432,7 +432,7 @@
     ]
   },
   {
-    "image": "https://static.thenounproject.com/png/app-icon-3162223-512.png",
+    "image": "/assets/NoteSync.png",
     "title": "NoteSync",
     "companyName": "Syncify",
     "id": 25,
@@ -450,7 +450,7 @@
     ]
   },
   {
-    "image": "https://static.thenounproject.com/png/app-icon-2568082-512.png",
+    "image": "/assets/BudgetBuddy.jpg",
     "title": "BudgetBuddy",
     "companyName": "FinTrack",
     "id": 26,
@@ -468,7 +468,7 @@
     ]
   },
   {
-    "image": "https://static.thenounproject.com/png/app-icon-1972345-512.png",
+    "image": "/assets/demo-app (4).webp",
     "title": "RecipeBook",
     "companyName": "Cookify",
     "id": 27,
@@ -486,7 +486,7 @@
     ]
   },
   {
-    "image": "https://static.thenounproject.com/png/app-icon-3579552-512.png",
+    "image": "/assets/HealthTrack.jpg",
     "title": "HealthTrack",
     "companyName": "HealthifyPro",
     "id": 28,
@@ -504,7 +504,7 @@
     ]
   },
   {
-    "image": "https://static.thenounproject.com/png/app-icon-2289939-512.png",
+    "image": "/assets/demo-app (2).webp",
     "title": "WeatherNow",
     "companyName": "SkyTech",
     "id": 29,
@@ -522,7 +522,7 @@
     ]
   },
   {
-    "image": "https://static.thenounproject.com/png/app-icon-3983747-512.png",
+    "image": "/assets/MusicStream.jpg",
     "title": "MusicStream",
     "companyName": "Tuneify",
     "id": 30,
