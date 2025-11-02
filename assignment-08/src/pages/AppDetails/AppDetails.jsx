@@ -9,7 +9,7 @@ import {
   ResponsiveContainer,
   Cell,
 } from "recharts";
-import toast, { Toaster } from "react-hot-toast";
+import toast from "react-hot-toast";
 
 const AppDetails = () => {
   const { id } = useParams();
@@ -30,6 +30,14 @@ const AppDetails = () => {
         setLoading(false);
       });
   }, [id]);
+
+  useEffect(() => {
+    if (app) {
+      const installedApps =
+        JSON.parse(localStorage.getItem("installedApps")) || [];
+      setInstalled(installedApps.some((a) => a.id === app.id));
+    }
+  }, [app]);
 
   if (loading) {
     return (
@@ -59,26 +67,36 @@ const AppDetails = () => {
   };
 
   const handleInstall = () => {
-    setInstalled(true);
-    toast.success(`${app.title} installed successfully!`, {
-      duration: 4000,
-      position: "top-right",
-      style: {
-        borderRadius: "12px",
-        background: "#00D390",
-        color: "#fff",
-        padding: "16px 24px",
-        boxShadow: "0 4px 12px rgba(0,0,0,0.15)",
-        fontWeight: 600,
-        fontSize: "16px",
-      },
-      icon: "✅",
-    });
+    const installedApps =
+      JSON.parse(localStorage.getItem("installedApps")) || [];
+
+    if (!installedApps.some((a) => a.id === app.id)) {
+      installedApps.push(app);
+      localStorage.setItem("installedApps", JSON.stringify(installedApps));
+      setInstalled(true);
+
+      toast.success(`${app.title} installed successfully!`, {
+        duration: 2000,
+        position: "top-center",
+        style: {
+          borderRadius: "12px",
+          background: "linear-gradient(90deg, #00C896, #00D390)",
+          color: "#fff",
+          padding: "16px 24px",
+          boxShadow: "0 4px 12px rgba(0,0,0,0.15)",
+          fontWeight: 600,
+          fontSize: "16px",
+        },
+        iconTheme: {
+          primary: "#fff",
+          secondary: "#00D390",
+        },
+      });
+    }
   };
 
   return (
     <div className="px-10 lg:px-16 py-12 lg:py-16 bg-gray-100">
-      <Toaster position="top-center" reverseOrder={false} />
 
       <div className="flex flex-col md:flex-row items-start md:items-center gap-6 md:gap-8 lg:gap-12 mb-12">
         <img

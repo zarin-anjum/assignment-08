@@ -4,6 +4,7 @@ import ErrorPage from "../pages/ErrorPage/ErrorPage";
 import Home from "../pages/Home/Home";
 import AllApps from "../pages/AllApps/AllApps";
 import AppDetails from "../pages/AppDetails/AppDetails";
+import Installation from "../pages/Installation/Installation";
 
 export const router = createBrowserRouter([
   {
@@ -21,11 +22,15 @@ export const router = createBrowserRouter([
         Component: AllApps,
       },
       {
+        path: "/Installation",
+        Component: Installation
+      },
+      {
         path: "/app/:id",
         Component: AppDetails,
       },
       {
-        path: "*", // <- catches invalid child routes
+        path: "*",
         Component: ErrorPage,
       },
     ],

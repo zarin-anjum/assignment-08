@@ -1,4 +1,3 @@
-import React from "react";
 import { FaGithub } from "react-icons/fa";
 import { useNavigate } from "react-router";
 
@@ -25,7 +24,7 @@ const Navbar = () => {
             <a className="hover:text-purple-600 hover:underline" onClick={() => navigate("/AllApps")}>Apps</a>
           </li>
           <li>
-            <a className="hover:text-purple-600 hover:underline">Installation</a>
+            <a className="hover:text-purple-600 hover:underline" onClick={() => navigate("/Installation")}>Installation</a>
           </li>
         </ul>
       </div>
